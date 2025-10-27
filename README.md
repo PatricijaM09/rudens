@@ -1,2 +1,2 @@
 # rudens
-Pirmais paša repozitorijs
+Pirmais pašas repozitorijs
